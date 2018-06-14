@@ -23,6 +23,9 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 	
 	
 	
+	
+	
+	
     addEventListener("load", function() {
         setTimeout(hideURLbar, 0);
     }, false);
@@ -31,6 +34,9 @@ License URL: http://creativecommons.org/licenses/by/3.0/
         window.scrollTo(0, 1);
     }
     
+
+
+
 
 
 
@@ -68,24 +74,35 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 	<header id="headerNavLogo"></header>
 	<!-- /navigation -->
 	<!-- inner pages banner section -->
-	<section class="banner-inner"></section>
+	<!-- 	<section class="banner-inner"></section> -->
 	<!-- /inner pages banner section -->
 	<!-- inner headers -->
-	<section class="inner-header">
-		<div class="container">
-			<!-- Page Heading/Breadcrumbs -->
-			<div class="row">
-				<div class="col-sm-12">
-					<h2 class="page-header">Contact Us</h2>
-					<ol class="breadcrumb">
-						<li><a href="index.html">Home</a></li>
-						<li class="active">Contact</li>
-					</ol>
-				</div>
-			</div>
-			<!-- /.row -->
-		</div>
-	</section>
+	<!-- 	<section class="inner-header"> -->
+	<!-- 		<div class="container"> -->
+	<!-- 			<!-- Page Heading/Breadcrumbs -->
+	-->
+	<!-- <!-- 			<div class="row"> -->
+	-->
+	<!-- <!-- 				<div class="col-sm-12"> -->
+	-->
+	<!-- <!-- 					<h2 class="page-header">Contact Us</h2> -->
+	-->
+	<!-- <!-- 					<ol class="breadcrumb"> -->
+	-->
+	<!-- <!-- 						<li><a href="index.html">Home</a></li> -->
+	-->
+	<!-- <!-- 						<li class="active">Contact</li> -->
+	-->
+	<!-- <!-- 					</ol> -->
+	-->
+	<!-- <!-- 				</div> -->
+	-->
+	<!-- <!-- 			</div> -->
+	-->
+	<!-- 			<!-- /.row -->
+	-->
+	<!-- 		</div> -->
+	<!-- 	</section> -->
 	<!-- /inner headers -->
 	<!-- map -->
 	<!--
@@ -102,7 +119,33 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 			<p
 				class="text-center w3layouts w3 w3l w3ls agileits agileinfo wthree w3-agileits">We
 				are there for any questions that you have. Happy to help!</p>
-			<div class="row">
+
+			<div class="row contact-row">
+				<div class="col-sm-5 col-sm-offset-1 contact-grid1-left">
+					<div class="contact-grid1-left1">
+						<span class="glyphicon glyphicon-envelope" aria-hidden="true"></span>
+						<h4>By Email</h4>
+						<p>For any queries or feedback write us at</p>
+						<ul>
+							<li>Mail: <a href="mailto:sales@Warrantypartners.com">sales@warrantypartners.com</a></li>
+
+						</ul>
+					</div>
+				</div>
+				<div class="col-sm-5 contact-grid1-left">
+					<div class="contact-grid1-left1">
+						<span class="glyphicon glyphicon-earphone" aria-hidden="true"></span>
+						<h4>By Phone</h4>
+						<p>Call our Customer Care Team</p>
+						<ul>
+							<li>Phone: 877-770-3766</li>
+						</ul>
+					</div>
+				</div>
+				<div class="clearfix"></div>
+			</div>
+
+			<div class="row" style="margin-top: 6%;">
 				<form action="#" method="post" name="sentMessage" id="contactForm"
 					novalidate>
 					<div class="col-sm-6 col-sm-6 col-sm-6 contact-agile1">
@@ -161,30 +204,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 					</div>
 				</form>
 			</div>
-			<div class="row contact-row">
-				<div class="col-sm-5 col-sm-offset-1 contact-grid1-left">
-					<div class="contact-grid1-left1">
-						<span class="glyphicon glyphicon-envelope" aria-hidden="true"></span>
-						<h4>By Email</h4>
-						<p>For any queries or feedback write us at</p>
-						<ul>
-							<li>Mail: <a href="mailto:sales@Warrantypartners.com">sales@warrantypartners.com</a></li>
 
-						</ul>
-					</div>
-				</div>
-				<div class="col-sm-5 contact-grid1-left">
-					<div class="contact-grid1-left1">
-						<span class="glyphicon glyphicon-earphone" aria-hidden="true"></span>
-						<h4>By Phone</h4>
-						<p>Call our Customer Care Team</p>
-						<ul>
-							<li>Phone: (800) 905-0443</li>
-						</ul>
-					</div>
-				</div>
-				<div class="clearfix"></div>
-			</div>
 		</div>
 	</section>
 	<!-- /contact section -->

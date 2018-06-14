@@ -364,7 +364,7 @@ ul.nav.navbar-nav {
     text-transform: uppercase;
 }
 .pogoSlider-slide-element a {
-	font-size:20px;
+	font-size:14px;
 	color:#fff;
 	text-decoration:none;
 	font-weight:normal;
@@ -389,7 +389,7 @@ section.welcome h3.text-center {
 	position: absolute;
     background-color: #eb5425;
     color: #fff;
-    left: 35%;
+    left: 28vw;
     top: 17%;
     padding: 0 30px;
     font-size: 40px;
@@ -2645,16 +2645,16 @@ section.contact-w3ls .contact-grid1-left1 ul li{
 /*-- responsive design --*/
 @media (max-width:1600px) {
 .pogoSlider {
-	height:677px;
+	height:400px;
 }
 .pogoSlider-slide {
-	min-height:677px;
+	min-height:400px;
 }
 .pogoSlider-slide-element {
-	margin-top:240px!important;
+	margin-top:120px!important;
 }
 .pogoSlider-slide-element h3 {
-    font-size: 45px;
+    font-size: 26px;
     padding: 0 100px 30px;
     letter-spacing: 3px;
     line-height: 80px;
@@ -2688,10 +2688,10 @@ section.team,.service-image {
 .pogoSlider-slide-element {
     margin-top: 265px!important;
 }
-section.welcome h3.text-center {
-	left:29%;
-	top:16%;
-}
+/* section.welcome h3.text-center { */
+/* 	left:29%; */
+/* 	top:16%; */
+/* } */
 section.welcome h3.text-center, section.team h3.text-center, section.price h3.text-center, section.about-w3ls h3, section.customer h3.text-center, section.service-agile h3.text-center, section.contact-w3ls h3.text-center {
 	font-size:35px;
 }
@@ -2846,10 +2846,10 @@ section.blog-w3ls a.btn.btn-primary, section.portfolio-w3ls a.btn.btn-primary, s
 section.welcome h3.text-center, section.team h3.text-center, section.price h3.text-center, section.about-w3ls h3, section.customer h3.text-center, section.service-agile h3.text-center, section.contact-w3ls h3.text-center {
     font-size: 30px;
 }
-section.welcome h3.text-center {
-    left: 31%;
-	top:10%;
-}
+/* section.welcome h3.text-center { */
+/*     left: 31%; */
+/* 	top:10%; */
+/* } */
 section.info h2 {
     font-size: 25px;
 	padding-bottom:10px;

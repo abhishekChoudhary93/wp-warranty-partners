@@ -137,8 +137,8 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 									</div>
 									<div class="col-sm-11">
 										<li class="steps">Just <a href="loginPage">login</a> to
-											your Warranty Partners account. Select the (product you have
-											registered) that you would like to file a claim for. Choose
+											your Warranty Partners account. Select the product you have
+											registered that you would like to file a claim for. Choose
 											the “File a Claim” link from the Quick Links menu.
 											Alternatively, you may call Customer Service at (800)
 											905-0443 option 3 for assistance with your claim.
@@ -153,8 +153,8 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 									<div class="col-sm-11">
 										<li class="steps">Our claims department will review the
 											problem(s) you’ve described with your unit and respond with
-											instructions on proceeding with your claim within 24-72 hours
-											and send you service instructions via email.</li>
+											instructions to proceed with your claim within 24-72 hours
+											and email you service instructions.</li>
 									</div>
 								</div>
 								<div class="row">
@@ -208,8 +208,8 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 									</div>
 									<div class="col-sm-11">
 										<li class="steps">Just <a href="loginPage">login</a> to
-											your Warranty Partners account. Select the (product you have
-											registered) that you would like to file a claim for. Choose
+											your Warranty Partners account. Select the product you have
+											registered that you would like to file a claim for. Choose
 											the “File a Claim” link from the Quick Links menu.
 											Alternatively, you may call Customer Service at (800)
 											905-0443 option 3 for assistance with your claim.

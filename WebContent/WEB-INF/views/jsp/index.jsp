@@ -18,6 +18,9 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 	
 	
 	
+	
+	
+	
     addEventListener("load", function() {
         setTimeout(hideURLbar, 0);
     }, false);
@@ -25,6 +28,9 @@ License URL: http://creativecommons.org/licenses/by/3.0/
     function hideURLbar() {
         window.scrollTo(0, 1);
     }
+
+
+
 
 
 </script>
@@ -81,7 +87,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 			<div class="pogoSlider-slide-element">
 				<h3 class="buttonMargin"
 					style="color: white; background: rgba(0, 0, 0, 0.7);">
-					Everything can be done online – Anytime!<br> But, were here to
+					Everything can be done online – Anytime! But, were here to
 					help if you need it!
 				</h3>
 				<a href="about.html" class="link1">Read More</a>
@@ -93,7 +99,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 			<div class="pogoSlider-slide-element">
 				<h3 class="buttonMargin"
 					style="color: white; background: rgba(0, 0, 0, 0.7);">
-					Regardless of the product,<br> Register it here and leave the
+					Regardless of the product,Register it here and leave the
 					hassle to us!
 				</h3>
 				<a href="whatWeCover" class="link1">Read More</a>
@@ -105,8 +111,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 			<div class="pogoSlider-slide-element">
 				<h3 class="buttonMargin"
 					style="color: white; background: rgba(0, 0, 0, 0.7);">Are you
-					a dealer? See how we can help you make more sales and have happier
-					customers.</h3>
+					a dealer? See how we can help you.</h3>
 				<a href="about.html" class="link1">Read More</a>
 			</div>
 		</div>
@@ -188,7 +193,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 					</div>
 					<h4 class="text-center">Warranties</h4>
 					<p class="team-p1">
-						<a href="loginPage">Register your warranty</a> with Warranty
+						<a href="loginPage" style="font-weight:bold;">Register your warranty</a> with Warranty
 						Partners for all the products you purchase. Manage all your
 						warranties at one place, 24x7.
 					</p>
@@ -237,7 +242,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 					<h4 class="text-center">Be a Dealer</h4>
 					<p class="team-p1">
 						Become a Dealer and manage your customers' warranties in one
-						place.<a href="loginPage"> Register Now!</a>
+						place.<a href="loginPage" style="font-weight:bold;"> Register Now!</a>
 					</p>
 				</div>
 				<div class="col-lg-3 col-md-3 col-sm-6 team-w3ls">

@@ -21,6 +21,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 	
 	
 	
+	
     addEventListener("load", function() {
         setTimeout(hideURLbar, 0);
     }, false);
@@ -29,6 +30,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
         window.scrollTo(0, 1);
     }
     
+
 
 
 
@@ -135,11 +137,11 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 								</div>
 								<div class="col-md-6">
 									<ol class="answerLi">
-										<li><a>Login</a> to you account at Warranty Partners.</li>
-										<li>Go to the Claims Tab and click on it.</li>
-										<li>Enter the Details which are asked.</li>
-										<li>Click on the button "File Claim", you will receive
-											confirmation through mail.</li>
+										<li><a>Login</a> to your account at Warranty Partners.</li>
+										<li>Go to the "Claims" Tab and click on it.</li>
+										<li>Enter the details.</li>
+										<li>Click on "File Claim". You will receive confirmation
+											by mail.</li>
 									</ol>
 								</div>
 							</div>
@@ -161,12 +163,11 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 								</div>
 								<div class="col-md-6">
 									<ol class="answerLi">
-										<li><a>Login</a> to you account at Warranty Partners.</li>
-										<li>Go to the Registered Products Tab and click on it.</li>
+										<li><a>Login</a> to your Account at Warranty Partners.</li>
+										<li>Go to "Registered Products" Tab and click on it.</li>
 										<li>Find your product in the page that comes.</li>
-										<li>Select File a New Claim for the product which you
-											want to file a claim.</li>
-										<li>Enter the Details which are asked.</li>
+										<li>Select "File a New Claim" for that product.</li>
+										<li>Enter the Details requested</li>
 									</ol>
 								</div>
 							</div> -->
@@ -182,18 +183,17 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 								<div class="col-md-5">
 									<div class="hover01 column">
 										<div>
-											<H3>Do I need to provide proof of purchases?</H3>
+											<H3>Do I need to provide proof of purchases? YES</H3>
 										</div>
 									</div>
 								</div>
 								<div class="col-md-6">
 									<ol class="answerLi">
-										<li><a>Login</a> to you account at Warranty Partners.</li>
-										<li>Go to the Registered Products Tab and click on it.</li>
-										<li>Find your product in the page that comes.</li>
-										<li>Select File a New Claim for the product which you
-											want to file a claim.</li>
-										<li>Enter the Details which are asked.</li>
+										<li><a>Login</a> to your Account at Warranty Partners.</li>
+										<li>Go to "Registered Products" Tab and click on it.</li>
+										<li>Find your product on that page.</li>
+										<li>Select "File a New Claim" for that product.</li>
+										<li>Enter the details requested.</li>
 									</ol>
 								</div>
 							</div>
@@ -209,19 +209,18 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 								<div class="col-md-5">
 									<div class="hover01 column">
 										<div>
-											<H3>Can I send my product to you while it has the
-												manufacturer's warranty to it?</H3>
+											<H3>Can I send my product to you when it is still under
+												the Manufacturer's warranty? YES</H3>
 										</div>
 									</div>
 								</div>
 								<div class="col-md-6">
 									<ol class="answerLi">
-										<li><a>Login</a> to you account at Warranty Partners.</li>
-										<li>Go to the Registered Products Tab and click on it.</li>
-										<li>Find your product in the page that comes.</li>
-										<li>Select File a New Claim for the product which you
-											want to file a claim.</li>
-										<li>Enter the Details which are asked.</li>
+										<li><a>Login</a> to your Account at Warranty Partners.</li>
+										<li>Go to "Registered Products" Tab and click on it.</li>
+										<li>Find your product on that page.</li>
+										<li>Select "File a New Claim" for that product.</li>
+										<li>Enter the details requested.</li>
 									</ol>
 								</div>
 							</div>
@@ -243,12 +242,12 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 								</div>
 								<div class="col-md-6">
 									<ol class="answerLi">
-										<li><a>Login</a> to you account at Warranty Partners.</li>
-										<li>Go to the Registered Products Tab and click on it.</li>
-										<li>Find your product in the page that comes.</li>
-										<li>Select File a New Claim for the product which you
-											want to file a claim.</li>
-										<li>Enter the Details which are asked.</li>
+										<!-- 										<li><a>Login</a> to your Account at Warranty Partners.</li> -->
+										<!-- 										<li>Go to "Registered Products" Tab and click on it.</li> -->
+										<!-- 										<li>Find your product in the page that comes.</li> -->
+										<!-- 										<li>Select File a New Claim for the product which you -->
+										<!-- 											want to file a claim.</li> -->
+										<li>Under progress</li>
 									</ol>
 								</div>
 							</div>
@@ -275,12 +274,11 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 								</div>
 								<div class="col-md-6">
 									<ol class="answerLi">
-										<li><a>Login</a> to you account at Warranty Partners.</li>
-										<li>Go to the Registered Products Tab and click on it.</li>
+										<li><a>Login</a> to your Account at Warranty Partners.</li>
+										<li>Go to "Registered Products" Tab and click on it.</li>
 										<li>Find your product in the page that comes.</li>
-										<li>Select File a New Claim for the product which you
-											want to file a claim.</li>
-										<li>Enter the Details which are asked.</li>
+										<li>Select "File a New Claim" for that product.</li>
+										<li>Enter the Details requested</li>
 									</ol>
 								</div>
 							</div>
@@ -303,12 +301,11 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 								</div>
 								<div class="col-md-6">
 									<ol class="answerLi">
-										<li><a>Login</a> to you account at Warranty Partners.</li>
-										<li>Go to the Registered Products Tab and click on it.</li>
+										<li><a>Login</a> to your Account at Warranty Partners.</li>
+										<li>Go to "Registered Products" Tab and click on it.</li>
 										<li>Find your product in the page that comes.</li>
-										<li>Select File a New Claim for the product which you
-											want to file a claim.</li>
-										<li>Enter the Details which are asked.</li>
+										<li>Select "File a New Claim" for that product.</li>
+										<li>Enter the Details requested</li>
 									</ol>
 								</div>
 							</div>
@@ -330,12 +327,11 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 								</div>
 								<div class="col-md-6">
 									<ol class="answerLi">
-										<li><a>Login</a> to you account at Warranty Partners.</li>
-										<li>Go to the Registered Products Tab and click on it.</li>
+										<li><a>Login</a> to your Account at Warranty Partners.</li>
+										<li>Go to "Registered Products" Tab and click on it.</li>
 										<li>Find your product in the page that comes.</li>
-										<li>Select File a New Claim for the product which you
-											want to file a claim.</li>
-										<li>Enter the Details which are asked.</li>
+										<li>Select "File a New Claim" for that product.</li>
+										<li>Enter the Details requested</li>
 									</ol>
 								</div>
 							</div>
@@ -357,12 +353,11 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 								</div>
 								<div class="col-md-6">
 									<ol class="answerLi">
-										<li><a>Login</a> to you account at Warranty Partners.</li>
-										<li>Go to the Registered Products Tab and click on it.</li>
+										<li><a>Login</a> to your Account at Warranty Partners.</li>
+										<li>Go to "Registered Products" Tab and click on it.</li>
 										<li>Find your product in the page that comes.</li>
-										<li>Select File a New Claim for the product which you
-											want to file a claim.</li>
-										<li>Enter the Details which are asked.</li>
+										<li>Select "File a New Claim" for that product.</li>
+										<li>Enter the Details requested</li>
 									</ol>
 								</div>
 							</div>
@@ -384,12 +379,11 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 								</div>
 								<div class="col-md-6">
 									<ol class="answerLi">
-										<li><a>Login</a> to you account at Warranty Partners.</li>
-										<li>Go to the Registered Products Tab and click on it.</li>
+										<li><a>Login</a> to your Account at Warranty Partners.</li>
+										<li>Go to "Registered Products" Tab and click on it.</li>
 										<li>Find your product in the page that comes.</li>
-										<li>Select File a New Claim for the product which you
-											want to file a claim.</li>
-										<li>Enter the Details which are asked.</li>
+										<li>Select "File a New Claim" for that product.</li>
+										<li>Enter the Details requested</li>
 									</ol>
 								</div>
 							</div>
@@ -417,12 +411,11 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 								</div>
 								<div class="col-md-6">
 									<ol class="answerLi">
-										<li><a>Login</a> to you account at Warranty Partners.</li>
-										<li>Go to the Registered Products Tab and click on it.</li>
+										<li><a>Login</a> to your Account at Warranty Partners.</li>
+										<li>Go to "Registered Products" Tab and click on it.</li>
 										<li>Find your product in the page that comes.</li>
-										<li>Select File a New Claim for the product which you
-											want to file a claim.</li>
-										<li>Enter the Details which are asked.</li>
+										<li>Select "File a New Claim" for that product.</li>
+										<li>Enter the Details requested</li>
 									</ol>
 								</div>
 							</div>
@@ -444,12 +437,11 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 								</div>
 								<div class="col-md-6">
 									<ol class="answerLi">
-										<li><a>Login</a> to you account at Warranty Partners.</li>
-										<li>Go to the Registered Products Tab and click on it.</li>
+										<li><a>Login</a> to your Account at Warranty Partners.</li>
+										<li>Go to "Registered Products" Tab and click on it.</li>
 										<li>Find your product in the page that comes.</li>
-										<li>Select File a New Claim for the product which you
-											want to file a claim.</li>
-										<li>Enter the Details which are asked.</li>
+										<li>Select "File a New Claim" for that product.</li>
+										<li>Enter the Details requested</li>
 									</ol>
 								</div>
 							</div>
@@ -471,12 +463,11 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 								</div>
 								<div class="col-md-6">
 									<ol class="answerLi">
-										<li><a>Login</a> to you account at Warranty Partners.</li>
-										<li>Go to the Registered Products Tab and click on it.</li>
+										<li><a>Login</a> to your Account at Warranty Partners.</li>
+										<li>Go to "Registered Products" Tab and click on it.</li>
 										<li>Find your product in the page that comes.</li>
-										<li>Select File a New Claim for the product which you
-											want to file a claim.</li>
-										<li>Enter the Details which are asked.</li>
+										<li>Select "File a New Claim" for that product.</li>
+										<li>Enter the Details requested</li>
 									</ol>
 								</div>
 							</div>
@@ -499,12 +490,11 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 								</div>
 								<div class="col-md-6">
 									<ol class="answerLi">
-										<li><a>Login</a> to you account at Warranty Partners.</li>
-										<li>Go to the Registered Products Tab and click on it.</li>
+										<li><a>Login</a> to your Account at Warranty Partners.</li>
+										<li>Go to "Registered Products" Tab and click on it.</li>
 										<li>Find your product in the page that comes.</li>
-										<li>Select File a New Claim for the product which you
-											want to file a claim.</li>
-										<li>Enter the Details which are asked.</li>
+										<li>Select "File a New Claim" for that product.</li>
+										<li>Enter the Details requested</li>
 									</ol>
 								</div>
 							</div>
@@ -526,12 +516,11 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 								</div>
 								<div class="col-md-6">
 									<ol class="answerLi">
-										<li><a>Login</a> to you account at Warranty Partners.</li>
-										<li>Go to the Registered Products Tab and click on it.</li>
+										<li><a>Login</a> to your Account at Warranty Partners.</li>
+										<li>Go to "Registered Products" Tab and click on it.</li>
 										<li>Find your product in the page that comes.</li>
-										<li>Select File a New Claim for the product which you
-											want to file a claim.</li>
-										<li>Enter the Details which are asked.</li>
+										<li>Select "File a New Claim" for that product.</li>
+										<li>Enter the Details requested</li>
 									</ol>
 								</div>
 							</div>

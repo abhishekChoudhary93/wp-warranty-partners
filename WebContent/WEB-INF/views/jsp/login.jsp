@@ -12,163 +12,14 @@
 <meta name="keywords"
 	content="Terrain Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template, 
 	Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyEricsson, Motorola web design" />
+
+<style type="text/css">
+input:placeholder {
+	color: black;
+}
+</style>
+
 <script type="application/x-javascript">
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
 	
 	
 	
@@ -180,162 +31,6 @@
     function hideURLbar() {
         window.scrollTo(0, 1);
     }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -365,12 +60,13 @@
 <!-- js files -->
 <script src="js/modernizr.js"></script>
 <!-- /js files -->
-<style type="text/css">
-</style>
+
 </head>
 <body>
 
 	<header id="headerNavLogo"></header>
+
+
 	<div class="container" style="margin-top: 10%; margin-bottom: 5%">
 		<c:if test="${not empty invalidLogin}">
 			<div class="alert alert-danger">
@@ -395,7 +91,7 @@
 					<label for="username" class="col-sm-2 control-label">Username</label>
 					<div class="col-sm-10">
 						<input type="text" class="form-control" id="username"
-							name="username" required placeholder="E.g zaojohn">
+							name="username" required placeholder="E.g john">
 					</div>
 				</div>
 				<div class="form-group marginClass">
@@ -446,20 +142,21 @@
 					<label for="name" class="col-sm-2 control-label">Name</label>
 					<div class="col-sm-10">
 						<input type="text" class="form-control" name="name" id="name"
-							placeholder="e.g. John Wills" required>
+							placeholder="e.g. John Wills" required />
 					</div>
 				</div>
 				<div class="form-group">
 					<label for="username" class="col-sm-2 control-label">Username</label>
 					<div class="col-sm-10">
 						<input type="text" class="form-control" name="username"
-							id="username" placeholder="e.g. johnWills23" required>
+							id="username" placeholder="e.g. johnWills23" required />
 					</div>
 				</div>
 				<div class="form-group">
 					<label for="email" class="col-sm-2 control-label">Email</label>
 					<div class="col-sm-10">
-						<input type="email" class="form-control" name="email" id="email"
+						<input type="email" placeholder="e.g. johnwills@gmail.com"
+							class="form-control" name="email" id="email"
 							placeholder="e.g. johnwills@gmail.com" required>
 					</div>
 				</div>
