@@ -24,6 +24,22 @@ input:placeholder {
 	
 	
 	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
     addEventListener("load", function() {
         setTimeout(hideURLbar, 0);
     }, false);
@@ -31,6 +47,22 @@ input:placeholder {
     function hideURLbar() {
         window.scrollTo(0, 1);
     }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -88,25 +120,11 @@ input:placeholder {
 			<form action="login" method="post" class="form-horizontal"
 				style="padding-left: 25%; padding-right: 25%;">
 				<div class="form-group">
-					<label for="username" class="col-sm-2 control-label">Username</label>
-					<div class="col-sm-10">
-						<input type="text" class="form-control" id="username"
-							name="username" required placeholder="E.g john">
-					</div>
-				</div>
-				<div class="form-group marginClass">
-					<label for="password" class="col-sm-2 control-label">Password</label>
-					<div class="col-sm-10 ">
-						<input type="password" required class="form-control" id="password"
-							name="password" placeholder="Password">
-					</div>
-				</div>
-				<div class="form-group">
 					<label for="userType" class="col-sm-2 control-label">User
 						Type</label>
 					<div class="radio">
 						<div class="col-sm-2">
-							<label> <input type="radio" name="userType" id="customer"
+							<label> <input type="radio" name="userType"
 								value="customer" checked> Customer
 
 							</label>
@@ -114,16 +132,31 @@ input:placeholder {
 					</div>
 					<div class="radio">
 						<div class="col-sm-2 col-sm-offset-2">
-							<label> <input type="radio" name="userType" id="dealer"
+							<label> <input type="radio" name="userType"
 								value="dealer"> Dealer
 							</label>
 						</div>
-						<div class="col-sm-2" style="margin-top: -5%; margin-left: 45%;">
-							<input type="submit" class="btn btn-danger btn-lg"
-								value="Sign in" />
-						</div>
 					</div>
+				</div>
+				<div class="form-group">
+					<label for="username" class="col-sm-2 control-label">Username</label>
+					<div class="col-sm-10">
+						<input type="text" class="form-control" name="username" required
+							placeholder="E.g john">
+					</div>
+				</div>
+				<div class="form-group marginClass">
+					<label for="password" class="col-sm-2 control-label">Password</label>
+					<div class="col-sm-10 ">
+						<input type="password" required class="form-control"
+							name="password" placeholder="Password">
+					</div>
+				</div>
 
+				<div class="form-group">
+					<div class="col-sm-2 col-sm-offset-5">
+						<input type="submit" class="btn btn-danger btn-lg" value="Sign in" />
+					</div>
 				</div>
 			</form>
 		</div>
@@ -141,7 +174,7 @@ input:placeholder {
 				<div class="form-group">
 					<label for="name" class="col-sm-2 control-label">Name</label>
 					<div class="col-sm-10">
-						<input type="text" class="form-control" name="name" id="name"
+						<input type="text" class="form-control" name="name"
 							placeholder="e.g. John Wills" required />
 					</div>
 				</div>
@@ -149,30 +182,31 @@ input:placeholder {
 					<label for="username" class="col-sm-2 control-label">Username</label>
 					<div class="col-sm-10">
 						<input type="text" class="form-control" name="username"
-							id="username" placeholder="e.g. johnWills23" required />
+							placeholder="e.g. johnWills23" required />
 					</div>
 				</div>
 				<div class="form-group">
 					<label for="email" class="col-sm-2 control-label">Email</label>
 					<div class="col-sm-10">
 						<input type="email" placeholder="e.g. johnwills@gmail.com"
-							class="form-control" name="email" id="email"
+							class="form-control" name="email"
 							placeholder="e.g. johnwills@gmail.com" required>
 					</div>
 				</div>
 				<div class="form-group">
-					<label for="contactNo" class="col-sm-2 control-label">Phone</label>
+					<label for="contactNo" class="col-sm-2 control-label">Phone <span style="font-size:80%;">(Don't use "-" in betweeen)</span></label>
 					<div class="col-sm-10">
-						<input type="number" class="form-control" name="contactNo"
-							id="contactNo" placeholder="e.g. 8888888888" required>
+						<input type="number" placeholder="8888888888" class="form-control"
+							name="contactNo" required
+							onfocus="if(this.value=='8888888888') this.value='';"
+							onblur="if(this.value=='') this.value='8888888888';">
 					</div>
 				</div>
 				<div class="form-group">
 					<label for="address" class="col-sm-2 control-label">Address</label>
 					<div class="col-sm-10">
 						<input type="text" class="form-control" name="address"
-							id="address" placeholder="e.g. 27, Park Street, New Town"
-							required>
+							placeholder="e.g. 27, Park Street, New Town" required>
 					</div>
 				</div>
 				<div class="form-group">
@@ -180,7 +214,7 @@ input:placeholder {
 						Type</label>
 					<div class="radio">
 						<div class="col-sm-2">
-							<label> <input type="radio" name="userType" id="customer"
+							<label> <input type="radio" name="userType"
 								value="customer" checked> Customer
 
 							</label>
@@ -188,7 +222,7 @@ input:placeholder {
 					</div>
 					<div class="radio">
 						<div class="col-sm-2 col-sm-offset-2">
-							<label> <input type="radio" name="userType" id="dealer"
+							<label> <input type="radio" name="userType"
 								value="dealer"> Dealer
 							</label>
 						</div>
@@ -255,28 +289,28 @@ input:placeholder {
 	<!-- /contact form -->
 	<!-- scroll to top -->
 	<script>
-		$(document).ready(function() {
-			// Add smooth scrolling to all links in navbar + footer link
-			$("section.footer a[href='#myPage']").on('click', function(event) {
+		// 		$(document).ready(function() {
+		// 			// Add smooth scrolling to all links in navbar + footer link
+		// 			$("section.footer a[href='#myPage']").on('click', function(event) {
 
-				// Make sure this.hash has a value before overriding default behavior
-				if (this.hash !== "") {
+		// 				// Make sure this.hash has a value before overriding default behavior
+		// 				if (this.hash !== "") {
 
-					// Store hash
-					var hash = this.hash;
+		// 					// Store hash
+		// 					var hash = this.hash;
 
-					// Using jQuery's animate() method to add smooth page scroll
-					// The optional number (900) specifies the number of milliseconds it takes to scroll to the specified area
-					$('html, body').animate({
-						scrollTop : $(hash).offset().top
-					}, 900, function() {
+		// 					// Using jQuery's animate() method to add smooth page scroll
+		// 					// The optional number (900) specifies the number of milliseconds it takes to scroll to the specified area
+		// 					$('html, body').animate({
+		// 						scrollTop : $(hash).offset().top
+		// 					}, 900, function() {
 
-						// Add hash (#) to URL when done scrolling (default click behavior)
-						window.location.hash = hash;
-					});
-				} // End if
-			});
-		})
+		// 						// Add hash (#) to URL when done scrolling (default click behavior)
+		// 						window.location.hash = hash;
+		// 					});
+		// 				} // End if
+		// 			});
+		// 		})
 	</script>
 	<!-- /scroll to top -->
 	<!-- js for pricing table -->
@@ -290,7 +324,7 @@ input:placeholder {
 	<script src="js/classie.js"></script>
 	<script src="js/uisearch.js"></script>
 	<script>
-		new UISearch(document.getElementById('sb-search'));
+		// 		new UISearch(document.getElementById('sb-search'));
 	</script>
 	<!-- /js for search button -->
 	<!-- js for banner files -->
@@ -300,19 +334,19 @@ input:placeholder {
 	<!-- js for pricing table pop up -->
 	<script src="js/jquery.magnific-popup.js" type="text/javascript"></script>
 	<script>
-		$(document).ready(function() {
-			$('.popup-with-zoom-anim').magnificPopup({
-				type : 'inline',
-				fixedContentPos : false,
-				fixedBgPos : true,
-				overflowY : 'auto',
-				closeBtnInside : true,
-				preloader : false,
-				midClick : true,
-				removalDelay : 300,
-				mainClass : 'my-mfp-zoom-in'
-			});
-		});
+		// 		$(document).ready(function() {
+		// 			$('.popup-with-zoom-anim').magnificPopup({
+		// 				type : 'inline',
+		// 				fixedContentPos : false,
+		// 				fixedBgPos : true,
+		// 				overflowY : 'auto',
+		// 				closeBtnInside : true,
+		// 				preloader : false,
+		// 				midClick : true,
+		// 				removalDelay : 300,
+		// 				mainClass : 'my-mfp-zoom-in'
+		// 			});
+		// 		});
 	</script>
 	<!-- /js for pricing table pop up -->
 	<!-- /js files -->

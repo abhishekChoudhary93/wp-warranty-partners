@@ -88,7 +88,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 			<!-- Page Heading/Breadcrumbs -->
 			<div class="row">
 				<div class="col-lg-12">
-					<h2 class="page-header">FAQs</h2>
+					<h2 class="page-header">FAQ</h2>
 					<ol class="breadcrumb">
 						<li><a href="index.html">Home</a></li>
 						<li class="active">FAQs</li>
