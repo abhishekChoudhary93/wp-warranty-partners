@@ -226,16 +226,16 @@ ul.nav.navbar-nav {
 	border-radius:50px;
 }
 .sb-search-input::-webkit-input-placeholder {
-	color: #ffffff;
+	color: grey;
 }
 .sb-search-input:-moz-placeholder {
-	color: #ffffff;
+	color: grey;
 }
 .sb-search-input::-moz-placeholder {
-	color: #efb480;
+	color: grey;
 }
 .sb-search-input:-ms-input-placeholder {
-	color: #ffffff;
+	color: grey;
 }
 .sb-icon-search,.sb-search-submit  {
 	width:30px;
@@ -1651,16 +1651,16 @@ section.subs input#email:focus {
 	outline:none!important;
 }
 input::-webkit-input-placeholder {
-color: #fff !important;
+color: grey !important;
 } 
 input:-moz-placeholder { /* Firefox 18- */
-color: #fff !important;  
+color: grey !important;  
 } 
 input::-moz-placeholder {  /* Firefox 19+ */
-color: #fff !important;  
+color: grey !important;  
 } 
 input:-ms-input-placeholder {  
-color: #fff !important;  
+color: grey !important;  
 }
 .col-lg-10.col-md-10.col-sm-7.subs-w3ls1 {
     padding-left: 0;

@@ -12,63 +12,6 @@
 <meta name="keywords"
 	content="Terrain Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template, 
 	Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyEricsson, Motorola web design" />
-
-<style type="text/css">
-input:placeholder {
-	color: black;
-}
-</style>
-
-<script type="application/x-javascript">
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-    addEventListener("load", function() {
-        setTimeout(hideURLbar, 0);
-    }, false);
-
-    function hideURLbar() {
-        window.scrollTo(0, 1);
-    }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</script>
 <!-- fonts -->
 <link href='//fonts.googleapis.com/css?family=Ubuntu+Condensed'
 	rel='stylesheet' type='text/css'>
@@ -194,12 +137,11 @@ input:placeholder {
 					</div>
 				</div>
 				<div class="form-group">
-					<label for="contactNo" class="col-sm-2 control-label">Phone <span style="font-size:80%;">(Don't use "-" in betweeen)</span></label>
+					<label for="contactNo" class="col-sm-2 control-label">Phone
+					</label>
 					<div class="col-sm-10">
-						<input type="number" placeholder="8888888888" class="form-control"
-							name="contactNo" required
-							onfocus="if(this.value=='8888888888') this.value='';"
-							onblur="if(this.value=='') this.value='8888888888';">
+						<input type="number" placeholder="e.g. 8888888888 (No '-' in between)" class="form-control"
+							name="contactNo" required>
 					</div>
 				</div>
 				<div class="form-group">
@@ -233,14 +175,14 @@ input:placeholder {
 					<label for="password" class="col-sm-2 control-label">Password</label>
 					<div class="col-sm-10">
 						<input type="password" class="form-control" name="password"
-							id="password1" placeholder="" required>
+							id="password1" placeholder="**********" required>
 					</div>
 				</div>
 				<div class="form-group">
 					<label for="password" class="col-sm-2 control-label">Re-Enter</label>
 					<div class="col-sm-10">
 						<input type="password" class="form-control" name="password2"
-							id="password2" placeholder="" required>
+							id="password2" placeholder="**********" required>
 					</div>
 				</div>
 				<div class="form-group">
