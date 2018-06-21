@@ -112,7 +112,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 							aria-controls="claims" aria-expanded="true">Claims</a></li>
 						<li role="presentation" class="tabsLi"><a href="#general"
 							role="tab" id="general-tab" data-toggle="tab"
-							aria-controls="general">Generals</a></li>
+							aria-controls="general">General</a></li>
 						<li role="presentation" class="tabsLi"><a href="#repairs"
 							role="tab" id="repairs-tab" data-toggle="tab"
 							aria-controls="repairs">Repairs</a></li>

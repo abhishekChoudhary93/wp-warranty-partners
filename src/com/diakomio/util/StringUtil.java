@@ -1,10 +1,11 @@
 package com.diakomio.util;
 
 public class StringUtil {
-	public static final String mailFooter = "\n\nThanks\nTeam WP";
+	public static final String mailFooter = "\n\nThanks\nTeam Warranty Partners";
 	public static final String adminEmail = "warrantypartners@gmail.com";
 	public static final String newUserSubject = "Welcome to Warranty Partners, {user}";
-	public static final String newCustomerBody = "Welcome Partner!\n\nYou have taken the first step towards having peace about your new purchase…for years. \n\nOur goal is to give you worry-free and hassle-free service for the duration of your new purchase’s life. You are now registered with us and can purchase the warranty best suited for you."
+	public static final String newCustomerBody = "Welcome Partner!\n\nOur goal is to give you worry-free and hassle-free service for the duration of your new purchase’s life. \n"
+			+ "You have taken the first step towards having peace about your new purchase. You have now registered with us and are able to purchase the warranty best suited for you."
 			+ mailFooter;
 	public static final String activateDealerSubjectToAdmin = "User activation required for {user}";
 	public static final String activateDealerBody = "Welcome Partner!\n\nYour Registration should be activated soon and we will eMail you when it is complete with next steps. \n\nThanks for working with Warranty Partners to provide the best in Extended Warranties and service!"

@@ -125,7 +125,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 					Warranty Partners</h3>
 				<p class="text-center w3layouts w3 w3l w3ls">
 					<strong>Our Goal</strong> – Assuring years of worry free use of
-					your electronics purchase. In its 12th year as a leading provider
+					your electronics purchase. In its 2nd year as a leading provider
 					of Extended Warranties, Warranty Partners has built its reputation
 					on excellent customer care for buyers of high-end electronics. This
 					is a service business and we strive to make every interaction with
